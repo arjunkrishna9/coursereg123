@@ -1,6 +1,6 @@
 Deployable Link:- https://coursereg123.vercel.app/
 
-Course Enrollment System
+Course Registration System
 
 This is a simple web application where users can view courses and enroll in them.
 The project is made for learning and demonstration purposes.
@@ -22,5 +22,6 @@ shadcn-ui
 Tailwind CSS
 
 developed by:- ARJUN GUPTA
+
 
 
